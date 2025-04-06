@@ -43,3 +43,6 @@ Logistics and Transportation: Optimize delivery routes and truck loads to minimi
 Supply Chain Management: Manage raw material allocation to different production units for cost-effective manufacturing.
 Conclusion
 By leveraging Python and PuLP, I created an efficient optimization model that demonstrates how businesses can make smarter, data-driven decisions. Such models are crucial in industries where resource constraints must be balanced against profitability, and they form the backbone of modern Operations Research and Decision Science techniques.
+
+OUTPUT:-
+<img width="960" alt="Image" src="https://github.com/user-attachments/assets/ac7f15ce-13d0-4073-b3e8-50fb944f3424" />
